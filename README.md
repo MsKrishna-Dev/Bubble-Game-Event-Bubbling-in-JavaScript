@@ -13,12 +13,12 @@ Players must click the correct bubble matching the target number within a 60-sec
 
 ## 🚀 Features
 
- • 60-second countdown timer
- • Random target number generation
- • Dynamic bubble grid rendering
- • Score increases by +10 for every correct hit
- • Efficient event handling using event bubbling & delegation
- • Fully responsive and lightweight UI
+ - 60-second countdown timer
+ - Random target number generation
+ - Dynamic bubble grid rendering
+ - Score increases by +10 for every correct hit
+ - Efficient event handling using event bubbling & delegation
+ - Fully responsive and lightweight UI
  
  ---
 
@@ -36,9 +36,9 @@ Players must click the correct bubble matching the target number within a 60-sec
 
 🛠️ Tech Stack
 
-HTML – Structure
-CSS – Styling
-JavaScript – Game logic, DOM manipulation, and event handling
+- HTML – Structure
+- CSS – Styling
+- JavaScript – Game logic, DOM manipulation, and event handling
 
 ---
 
