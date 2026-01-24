@@ -7,7 +7,7 @@ Players must click the correct bubble matching the target number within a 60-sec
 
 ## 📸 Demo
 
-![Game Demo](demo.gif)
+![Game Demo](bubble-game.gif)
 
 ---
 
