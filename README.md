@@ -28,8 +28,8 @@ Players must click the correct bubble matching the target number within a 60-sec
  2. Multiple bubbles with random numbers appear on the screen.
  3. The player must click the bubble matching the hit number.
  4. Each correct click:
-      • Increases score by 10 points
-      • Generates a new hit number and refreshed bubbles
+      - Increases score by 10 points
+      - Generates a new hit number and refreshed bubbles
  5. The game ends automatically after 60 seconds.
 
 ---
